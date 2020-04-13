@@ -40,3 +40,6 @@ ou
 * usar o `chart.js`
 * exemplo que o Celio criou para ajudar vocês! https://drive.google.com/open?id=1LhhEmUPoJY5cjg4Xxxa5yz4pVoh5mgZs
 
+
+**Dupla do projeto currency**
+Caio e Igor = https://github.com/Nefilimdev/currencyApi.git 
