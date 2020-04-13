@@ -42,4 +42,4 @@ ou
 
 
 **Dupla do projeto currency**
-Caio e Igor = https://github.com/Nefilimdev/currencyApi.git
+Caio e Igor = https://github.com/Nefilimdev/currencyApi.git 
