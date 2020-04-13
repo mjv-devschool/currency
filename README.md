@@ -40,3 +40,5 @@ ou
 * usar o `chart.js`
 * exemplo que o Celio criou para ajudar vocês! https://drive.google.com/open?id=1LhhEmUPoJY5cjg4Xxxa5yz4pVoh5mgZs
 
+*Dulpa inicio: Lucas Alexandre e Marcilio. =>https://github.com/lucasdev10/ConversorDeMoeda
+*Dupla final: Lucas Alexandre e Raul. =>https://github.com/lucasdev10/ConversorDeMoeda
