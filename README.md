@@ -40,3 +40,12 @@ ou
 * usar o `chart.js`
 * exemplo que o Celio criou para ajudar vocês! https://drive.google.com/open?id=1LhhEmUPoJY5cjg4Xxxa5yz4pVoh5mgZs
 
+**Trio do projeto Currency
+<!-- Ordem cronológica das duplas: -->
+<!-- Primeira dupla: Diego Ceccon e Diego Minelli -->
+<!-- Segunda dupla: Diego Ceccon e Jonei -->
+
+* Diego Ceccon, Diego Minelli e Jonei -> url do repositório: https://github.com/diegominelli/currency_challenge
+
+
+
