@@ -42,3 +42,6 @@ ou
 
 *Dulpa inicio: Lucas Alexandre e Marcilio. =>https://github.com/lucasdev10/ConversorDeMoeda
 *Dupla final: Lucas Alexandre e Raul. =>https://github.com/lucasdev10/ConversorDeMoeda
+
+*Dulpa inicio: Renan e Mayke. =>https://github.com/lookfire/currency-converter
+*Dupla final: Renan e José. =>https://github.com/lookfire/currency-converter
