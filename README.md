@@ -42,3 +42,6 @@ ou
 
 *Dulpa inicio: Lucas Alexandre e Marcilio. =>https://github.com/lucasdev10/ConversorDeMoeda
 *Dupla final: Lucas Alexandre e Raul. =>https://github.com/lucasdev10/ConversorDeMoeda
+
+* Dupla Início: Ingrid e Deivid: https://github.com/ingridfs/currency-exchange
+* Dupla Final: Ingrid e Renan Medeiros: https://github.com/ingridfs/currency-exchange
